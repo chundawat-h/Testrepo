@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+label, input, button {
+    margin: 5px 0;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #103b57;
+}
+
+.matrix-input {
+    width: 50px;
+    margin-right: 10px;
+}
+
+pre {
+    background-color: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+.matrix {
+    font-family: monospace;
+    color: #16a085;
+}
+
+
